@@ -1,0 +1,7 @@
+{
+  "name": "appInventario",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
